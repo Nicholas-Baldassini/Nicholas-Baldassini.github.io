@@ -1,5 +1,13 @@
 h1 {
     font-size: 90px;
     font-weight: normal;
-    color: blue;
+    color: red;
   }
+
+  .Square{
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    /* Add background-color, left, top to each div elements, unique */
+  }
+  
